@@ -6,7 +6,7 @@
 - 不限制业务场景
 - 打造企业专属低代码平台
 
-[立即部署]（https://www.oinone.top/）
+[立即部署]（ https://www.oinone.top/ ）
 
 ## 数式Oinone已为800+复杂场景数字化项目
 
